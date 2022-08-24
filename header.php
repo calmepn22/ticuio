@@ -17,6 +17,6 @@
 
     <div class="container">
 
-      <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span>Lista de susursales Sierra</h2>
+      <h2><span class="glyphicon glyphicon-user" aria-hidden="true"></span>GUUIA</h2>
      <div class="panel panel-default">
        <div class="panel-body">
